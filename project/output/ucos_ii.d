@@ -1,0 +1,16 @@
+.\output\ucos_ii.o: ..\ucos\source\ucos_ii.c
+.\output\ucos_ii.o: ..\ucos\source\ucos_ii.h
+.\output\ucos_ii.o: ..\system\app_cfg.h
+.\output\ucos_ii.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\ucos_ii.o: ..\system\os_cfg.h
+.\output\ucos_ii.o: ..\ucos\Port\os_cpu.h
+.\output\ucos_ii.o: ..\ucos\source\os_core.c
+.\output\ucos_ii.o: ..\ucos\source\os_flag.c
+.\output\ucos_ii.o: ..\ucos\source\os_mbox.c
+.\output\ucos_ii.o: ..\ucos\source\os_mem.c
+.\output\ucos_ii.o: ..\ucos\source\os_mutex.c
+.\output\ucos_ii.o: ..\ucos\source\os_q.c
+.\output\ucos_ii.o: ..\ucos\source\os_sem.c
+.\output\ucos_ii.o: ..\ucos\source\os_task.c
+.\output\ucos_ii.o: ..\ucos\source\os_time.c
+.\output\ucos_ii.o: ..\ucos\source\os_tmr.c
